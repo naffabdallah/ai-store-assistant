@@ -5,3 +5,4 @@ print(f"hello {customer}, how can i help you today?")
 product = input("what product are you looking for? ")
 print(f"Great choice, {customer}! let me check if we have the {product} in stock. ")
 
+
